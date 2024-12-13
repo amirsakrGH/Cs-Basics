@@ -5,6 +5,7 @@
         static void Main(string[] args)
         {
 
+
             #region Q01
             Console.WriteLine("Question01");
             Console.Write("Enter a number: ");
